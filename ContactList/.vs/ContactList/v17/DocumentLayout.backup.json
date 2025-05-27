@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\contact-list-winforms\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,11 +63,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
-              "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T02:32:12.817Z",
               "EditorCaption": " [Design]"

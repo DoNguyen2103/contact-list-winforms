@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\contact-list-winforms\\ContactList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,19 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\Program.cs",
+              "RelativeDocumentMoniker": "ContactList\\Program.cs",
+              "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\Program.cs",
+              "RelativeToolTip": "ContactList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:00:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
               "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
               "RelativeToolTip": "ContactList\\MainForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T02:54:12.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\contact-list-winforms\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|c:\\contact-list-winforms\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D298FCB-6B79-4292-A665-E840C8EE7D12}|ContactList\\ContactList.csproj|C:\\contact-list-winforms\\ContactList\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -67,14 +67,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeToolTip": "ContactList\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:42:08.905Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T02:54:12.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
